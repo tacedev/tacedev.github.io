@@ -1,0 +1,97 @@
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreThin.otf) format('opentype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreThinItalic.otf) format('opentype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreLight.otf) format('opentype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreLightItalic.otf) format('opentype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreRegular.otf) format('opentype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreRegularItalic.otf) format('opentype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreMedium.otf) format('opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreMediumItalic.otf) format('opentype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreSemibold.otf) format('opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreSemiboldItalic.otf) format('opentype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreBold.otf) format('opentype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreBoldItalic.otf) format('opentype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreBlack.otf) format('opentype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Calibre';
+    src: url(./Calibre/CalibreBlackItalic.otf) format('opentype');
+    font-weight: 700;
+    font-style: italic;
+}
